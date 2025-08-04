@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Обо мне](README.md)
+* [Мой опыт работы / навыки](moi-opyt-raboty-navyki.md)
 
-## Мой опыт <a href="#experience" id="experience"></a>
+## Портфолио
 
-* [gamedev](experience/gamedev.md)
-* [web](experience/web.md)
-* [media](experience/media.md)
-* [Студенческий совет](experience/student.md)
+* [gamedev](portfolio/gamedev.md)
+* [web](portfolio/web.md)
+* [media](portfolio/media.md)
+* [Студенческий совет](portfolio/student.md)

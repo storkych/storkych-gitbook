@@ -7,10 +7,10 @@ icon: globe-pointer
 
 ## Сайт с тестом Белбина для проекта "Школа Актива"
 
-На протяжении трёх лет занимался реализацией сайта для проекта "Школа Актива" (проект проводится ежегодно). \
+С 2022 года занимаюсь поддержкой разработанного мной сайта для проекта "Школа Актива" (проект проводится ежегодно). \
 Участники проходят тест Белбина, а их результаты получает команда организаторов в Google таблице.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Первая страница</p></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Первая страница 2024</p></figcaption></figure> <figure><img src="../.gitbook/assets/изображение_2025-08-05_023120400.png" alt=""><figcaption><p>Первая страница 2025</p></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/изображение_2025-03-04_011424095.png" alt=""><figcaption><p>Блок теста</p></figcaption></figure>
 
@@ -30,7 +30,8 @@ icon: globe-pointer
 
 ## Сайт подбора цветовой палитры HueBlend
 
-Сайт размещён на моём VPS сервере и доступен по ссылке [hueblend.ru](https://hueblend.ru)
+~~Сайт размещён на моём VPS сервере и доступен по ссылке hueblend.ru~~\
+На данный момент отключён
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Интрефейс HueBlend</p></figcaption></figure>
 

@@ -1,16 +1,5 @@
 ---
 icon: file-user
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Обо мне
@@ -39,34 +28,46 @@ layout:
 {% endstep %}
 {% endstepper %}
 
+### **Мой опыт работы**
+
+На данный момент имею опыт работы с различными технологиями разработки, включая **C#, Unity, Node.js, WebSockets, Docker, Swagger, RabbitMQ, PostgreSQL, REST API и Git**. Понимаю базовые принципы **ООП**, знаком с основными **паттернами проектирования** и архитектурой **микросервисных приложений**. &#x20;
+
+Имею опыт работы как в соло, так и в командных проектах, эффективно взаимодействую с коллегами, участвую в code-review и применяю современные методы командной разработки, включая Agile/Scrum практики.&#x20;
+
+**Быстро осваиваю новые технологии** и способен погружаться в сложные задачи в сжатые сроки.
+
+{% content-ref url="moi-opyt-raboty-navyki.md" %}
+[moi-opyt-raboty-navyki.md](moi-opyt-raboty-navyki.md)
+{% endcontent-ref %}
+
 ### Мои проекты в сфере разработки игр
 
 С 2020 года я начал интересоваться разработкой компьютерных игр и на данный момент имею за плечами 3 проекта на платформе Steam и более 10 проектов на платформе Яндекс Игры.
 
-{% content-ref url="experience/gamedev.md" %}
-[gamedev.md](experience/gamedev.md)
+{% content-ref url="portfolio/gamedev.md" %}
+[gamedev.md](portfolio/gamedev.md)
 {% endcontent-ref %}
 
 ### Мои web проекты
 
 С 2019 года я начал интересоваться веб-разработкой и периодически реализую различные проекты (на заказ или для собственных целей).
 
-{% content-ref url="experience/web.md" %}
-[web.md](experience/web.md)
+{% content-ref url="portfolio/web.md" %}
+[web.md](portfolio/web.md)
 {% endcontent-ref %}
 
 ### Моё портфолио в медиа-сфере
 
 Более 10 лет активно пользуюсь фото и видео редакторами и всегда готов применить свои навыки в процессе создания чего-либо.
 
-{% content-ref url="experience/media.md" %}
-[media.md](experience/media.md)
+{% content-ref url="portfolio/media.md" %}
+[media.md](portfolio/media.md)
 {% endcontent-ref %}
 
 ### Мой опыт в рамках Студенческого совета РЭУ
 
 За период своего обучения в ВУЗе я принял участие в самых различных проектах и активностях, что помогло мне обрести организаторские навыки, а так же развить свои soft и hard скиллы.
 
-{% content-ref url="experience/student.md" %}
-[student.md](experience/student.md)
+{% content-ref url="portfolio/student.md" %}
+[student.md](portfolio/student.md)
 {% endcontent-ref %}
